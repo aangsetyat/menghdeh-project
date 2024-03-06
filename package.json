@@ -1,0 +1,10 @@
+{
+  "name": "menghdeh-project",
+  "version": "1.0.0",
+  "description": "GFR SIR",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/aangsetyat/menghdeh-project.git",
+  "author": "aangsetyat",
+  "license": "ISC"
+}
